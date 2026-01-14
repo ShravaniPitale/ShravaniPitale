@@ -34,4 +34,4 @@ Always open to learning, collaboration, and meaningful conversations.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pitaleshravani31@gmail.com)
 ---
 
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/<your-username>/<repo-name>)
+<img src="https://komarev.com/ghpvc/?username=ShravaniPitale&label=Visitors&color=1E90FF&style=flat" alt="ShravaniPitale" />
