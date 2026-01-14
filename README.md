@@ -1,38 +1,57 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&weight=1000&size=40&center=true&vCenter=true&width=800&height=100&duration=2000&pause=1000&color=1E90FF&lines=HELLO!👋;I'm+Shravani+Pitale;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&weight=1000&size=40&center=true&vCenter=true&width=900&height=100&duration=2000&pause=1000&color=ee6b6e&lines=HELLO!👋;I'm+Shravani+Pitale;Welcome+to+my+GitHub+profile!" />
 </h1>
----
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShravaniPitale&bg_color=ffffff&color=1E90FF&line=1E90FF&point=1E90FF&hide_border=true)
-
-### About Me
-I’m an IT student staying curious, learning new things, and growing every single day.  
-Focused on building a strong technical foundation and improving consistently through practice, projects, and continuous learning.
 
 ---
 
-### What I Do
-- Strengthen core programming and CS fundamentals  
-- Explore new technologies step by step  
-- Work on small projects to improve practical skills  
-- Maintain a disciplined and consistent learning pace  
+<img src="https://komarev.com/ghpvc/?username=ShravaniPitale&label=Visitors&color=9370DB&style=flat" alt="ShravaniPitale" />
 
 ---
 
-### Goals
-- Become technically strong with real-world skills  
-- Build clean, readable, efficient code  
-- Keep improving with curiosity and dedication  
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,git,github,linux,aws,docker,kubernetes" />
+</p>
 
 ---
 
-### Connect
-Always open to learning, collaboration, and meaningful conversations.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-pitale-b01a11380)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShravaniPitale)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pitaleshravani31@gmail.com)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShravaniPitale&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniPitale&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=ShravaniPitale&label=Visitors&color=1E90FF&style=flat" alt="ShravaniPitale" />
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ShravaniPitale"><img src="https://github-profile-trophy.vercel.app/?username=ShravaniPitale&theme=onedark&margin-w=10" /></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 **Notification System for College ERP** – Java + Firebase  
+  [GitHub Repo](#)
+- 🔹 **Cloud DevOps Mini Project** – Docker + AWS  
+  [GitHub Repo](#)
+- 🔹 **Java Beginner Projects Collection**  
+  [GitHub Repo](#)
+
+---
+
+### 🌿 Fun Facts About Me
+- I love sunsets 🌅  
+- Lavender is my favorite color 💜  
+- Mountains & nature make me happy ⛰️  
+- Dancing in the rain is my happy place ☔  
+- I enjoy cozy warm lights & balcony vibes ✨
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/shravani-pitale/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://github.com/ShravaniPitale" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
